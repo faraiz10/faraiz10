@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Farai</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Faraiz</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraiz10&label=Profile%20views&color=0e75b6&style=flat" alt="faraiz10" /> </p>
