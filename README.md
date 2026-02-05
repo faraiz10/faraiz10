@@ -6,14 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraiz10" alt="faraiz10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Hi, I'm Faraiz 👋
 
-- 🔭 I’m currently working on **C++**
+Computer Science student passionate about tech and security
 
-- 🌱 I’m currently learning **Flutter, C++**
+• C++ & Python
+• Linux basics
+• Web Security (OWASP, Burp Suite)
+• Learning by building projects
 
-- 📫 How to reach me **faraizbhat9@gmail.com**
+Always growing 🚀
 
-- ⚡ Fun fact **Hardly seen, always noticed..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
